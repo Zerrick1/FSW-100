@@ -1,0 +1,34 @@
+body{
+    font-family: "jomhuria", sans-serif;
+}
+
+.nav1{
+    margin: 10px;
+}
+
+img{
+    float: left;
+    height: 250px;
+    margin: 10px;
+}
+
+#p1{
+    padding: 10px;
+    margin: 10px;
+}
+
+main{
+    border: 1px solid black;
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+
+
