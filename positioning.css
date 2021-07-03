@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:peachpuff;
+}
+
+.nav{
+    z-index: 10;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: gray;
+  height: inherit;
+  position: fixed;
+  word-spacing: 100px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    right: 250px;
+    top: 250px;
+    float: left;
+}
+.container{
+    position: relative;
+    border: 1px solid black;
+   
+}
+#one{
+    border: 1px solid black;
+    margin: 100px 100px;
+}
+#two{
+    border: 1px solid black;
+    margin: 100px 100px;
+}
+#three{
+    border: 1px solid black;
+    margin: 100px 100px;
+}
+img{
+    margin-top: 50px;
+}
+h2, h5{
+    text-align: center;
+    text-decoration: underline;
+}
+#one p{
+    margin-left: 300px;
+}
+#two p{
+    margin-left: 300px; 
+}
+#three p{
+    margin-left: 300px;
+}
+
+
+
+
+
